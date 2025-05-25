@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mahmoud Dawd
-### Senior UI Developer | UX/UI Designer | Front-End Engineer
+### Senior UI Developer | Senior UX/UI Designer 
 
 🎯 Passionate about building beautiful, accessible interfaces  
 
